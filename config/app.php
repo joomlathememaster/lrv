@@ -143,7 +143,11 @@ return [
         App\Providers\AppServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-
+        
+        /*
+         * Component Service Providers...
+         */
+        App\Components\Dashboard\DashboardServiceProvider::class,
     ],
 
     /*
