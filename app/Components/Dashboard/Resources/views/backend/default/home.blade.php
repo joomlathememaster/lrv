@@ -5,5 +5,5 @@ Dashboard
 @stop
 
 @section('content')
-Please choose a task at the sidebar test test
+Please choose a task at the sidebar test test test test
 @stop
